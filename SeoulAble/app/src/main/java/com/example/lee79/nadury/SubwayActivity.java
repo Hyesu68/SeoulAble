@@ -29,7 +29,7 @@ import java.io.InputStream;
 
 public class SubwayActivity extends AppCompatActivity {
     XmlPullParser xpp;
-    private static final String SERVICE_KEY = "BopQLms61qJWbMIRxXjzER51oXHat6TF%252FdTPGrt6zChxCrM4fIfd7A3mCbLgcTZdhkG3FzxTwKAL%252B%252FpKx%252FJNnQ%253D%253D";
+    private static final String SERVICE_KEY = "";
     String subNum, subName;
     TextView subNum2, subStop, subStopTime;
     String s = "";
