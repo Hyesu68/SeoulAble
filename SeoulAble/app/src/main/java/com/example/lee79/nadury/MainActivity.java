@@ -67,8 +67,8 @@ public class MainActivity extends AppCompatActivity implements TMapGpsManager.on
     String start_addr,finish_addr;
     double currentLatitude,currentLongitude;
     double currentX,currentY;
-    private final String mapKey = "d72d4fac-59a7-4465-87e5-abadd92188f9";
-    private final String seoulAPI_disabled_Key = "69586550746c65653131304c574c6c44";
+    private final String mapKey = "";
+    private final String seoulAPI_disabled_Key = "";
 
     private TMapGpsManager tMapGps = null;
     private boolean m_bTrackingMode = true;
