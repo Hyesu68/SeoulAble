@@ -31,7 +31,7 @@ public class HomeActivity extends Activity {
     ImageButton mapBtn,settingBtn;
     private CulturalEventButtonTypeA infoBtn;
     private AirQualityButtonTypeA airBtn;
-    private String OpenApiKey = "69586550746c65653131304c574c6c44";
+    private String OpenApiKey = "";
     private AirQualityTypeMini air;
     Intent intent;
 
