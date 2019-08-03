@@ -70,7 +70,7 @@ public class RoadDetailActivity extends AppCompatActivity {
         cost = findViewById(R.id.cost);
         walkTime = findViewById(R.id.walktime);
 
-        ODsayService odsayService = ODsayService.init(getApplicationContext(), "fKtH8toBYGmogRxStaGwRNDagurMB1epwF99ClaZhd4");
+        ODsayService odsayService = ODsayService.init(getApplicationContext(), "");
         odsayService.setReadTimeout(5000);
         odsayService.setConnectionTimeout(5000);
 
