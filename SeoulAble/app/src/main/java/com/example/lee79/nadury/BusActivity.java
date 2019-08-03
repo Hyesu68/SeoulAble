@@ -43,7 +43,7 @@ import javax.xml.parsers.DocumentBuilderFactory;
 
 public class BusActivity extends AppCompatActivity {
     XmlPullParser xpp;
-    private static final String SERVICE_KEY = "BopQLms61qJWbMIRxXjzER51oXHat6TF%252FdTPGrt6zChxCrM4fIfd7A3mCbLgcTZdhkG3FzxTwKAL%252B%252FpKx%252FJNnQ%253D%253D";
+    private static final String SERVICE_KEY = "";
     String busNum, startName, stationID;
     TextView busNum2, busStop, busStopTime;
     String arsID;
