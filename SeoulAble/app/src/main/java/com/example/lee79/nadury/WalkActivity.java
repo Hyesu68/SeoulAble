@@ -16,7 +16,7 @@ import com.skt.Tmap.TMapView;
 public class WalkActivity extends AppCompatActivity {
     String road_stx, road_sty, road_fnx, road_fny;
     Double road_stx1, road_sty1, road_fnx1, road_fny1;
-    private final String mapKey = "135fed05-084d-4c9f-8a62-12219b430862";
+    private final String mapKey = "";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
