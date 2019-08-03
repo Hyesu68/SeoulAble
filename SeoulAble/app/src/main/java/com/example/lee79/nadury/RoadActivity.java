@@ -61,7 +61,7 @@ public class RoadActivity extends AppCompatActivity {
         textView1 = findViewById(R.id.textView1);
         textView1.setText(startaddr +  " → " + finishaddr);
 
-        ODsayService odsayService = ODsayService.init(getApplicationContext(), "fKtH8toBYGmogRxStaGwRNDagurMB1epwF99ClaZhd4");
+        ODsayService odsayService = ODsayService.init(getApplicationContext(), "");
         odsayService.setReadTimeout(5000);
         odsayService.setConnectionTimeout(5000);
 
